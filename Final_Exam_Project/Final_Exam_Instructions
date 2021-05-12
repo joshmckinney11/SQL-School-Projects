@@ -1,0 +1,16 @@
+BUSA526: Database Management
+
+Final Exam
+Download the FinalFall202.sql and run it in MySQL. Now based on this database write query that shows...
+
+1)	Show first name, last name, phone number and full address of customers ( return total 4 columns)
+2)	Show first name, last name, and state of agents who got hired after December 1998
+3)	Find customers who like Standards but not Jazz
+4)	Show the entertainers who have no booking
+5)	Show agents who have never booked a Country or Country Rock group
+6)	List the entertainers who played engagement for customers Berg and Hallmark
+7)	Delete Musical Styles that aren’t played by any entertainer
+8)	Add 5 percent to the salary of agents 
+9)	Show the entertainers who have more than two overlapped booking 
+10)	Is the number of entertainers form Redmond more than the number of entertainers from Auburn?
+11)	Show all entertainers and the count of each entertainers engagements
